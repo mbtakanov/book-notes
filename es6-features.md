@@ -180,7 +180,7 @@ let bar = [1, ...foo, 6, 7, 8, 9, 10]; // bar = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ### Template Literals
 
-- Use ` (backtick) symbol
+- Use \` (backtick) symbol
 
 ```javascript
 let foo = 'John';

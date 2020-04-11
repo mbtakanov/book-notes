@@ -1,10 +1,10 @@
 ## Variables
 
-Global variables begin with $ - $global_variable = 10
+Global variables begin with `$`.
 
-Instance variables begin with @
+Instance variables begin with `@`.
 
-Class variables begin with @@ and must be initialized before they can be used in method definitions.
+Class variables begin with `@@` and must be initialized before they can be used in method definitions.
 ```
 class Customer
    @@no_of_customers = 0
@@ -31,9 +31,9 @@ class Customer
 end
 ```
 
-Local variables begin with a lowercase letter or _. The scope of a local variable ranges from class, module, def, or do to the corresponding end or from a block's opening brace to its close brace {}.
+Local variables begin with a lowercase letter or `_`. The scope of a local variable ranges from `class`, `module`, `def`, or do to the corresponding end or from a block's opening brace to its close brace `{}`.
 
-Constants begin with an uppercase letter - VAR1 = 100
+Constants begin with an uppercase letter - `YEARS_TO_LIVE = 100`
 
 ## Loops
 
