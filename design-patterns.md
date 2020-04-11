@@ -6,62 +6,62 @@ This repository is targeted at developers wishing to improve their knowledge of 
 
 ## Table of Contents
 
-  1. [JavaScript Design Patterns](#javascript-design-patterns)
-    * [Constructor Pattern](#constructor-pattern)
-    * [Module Pattern](#module-pattern)
-    * [Revealing Module Pattern](#revealing-module-pattern)
-    * [Singleton Pattern](#singleton-pattern)
-    * [Observer Pattern](#observer-pattern)
-    * [Mediator Pattern](#mediator-pattern)
-    * [Prototype Pattern](#prototype-pattern)
-    * [Command Pattern](#command-pattern)
-    * [Facade Pattern](#facade-pattern)
-    * [Factory Pattern](#factory-pattern)
-    * [Mixin Pattern](#mixin-pattern)
-    * [Decorator Pattern](#decorator-pattern)
-    * [Flyweight Pattern](#flyweight-pattern)
-  1. [JavaScript MV* Patterns](#javascript-mv*-patterns)
-    * [MVC Pattern](#mvc-pattern)
-    * [MVP Pattern](#mvp-pattern)
-    * [MVVM Pattern](#mvvm-pattern)
-  1. [Modern Modular JavaScript Design Patterns](#modern-modular-javascript-design-patterns)
-    * [AMD](#amd)
-    * [CommonJS](#commonjs)
-    * [ES Harmony](#es-harmony)
-  1. [Design Patterns In jQuery](#design-patterns-in-jquery)
-    * [Composite Pattern](#composite-pattern)
-    * [Adapter Pattern](#adapter-pattern)
-    * [Facade Pattern](#facade-pattern)
-    * [Observer Pattern](#observer-pattern)
-    * [Iterator Pattern](#iterator-pattern)
-    * [Lazy Initialization Pattern](#lazy-initialization-pattern)
-    * [Proxy Pattern](#proxy-pattern)
-    * [Builder Pattern](#builder-pattern)
+1. [JavaScript Design Patterns](#javascript-design-patterns)
+  * [Constructor Pattern](#constructor-pattern)
+  * [Module Pattern](#module-pattern)
+  * [Revealing Module Pattern](#revealing-module-pattern)
+  * [Singleton Pattern](#singleton-pattern)
+  * [Observer Pattern](#observer-pattern)
+  * [Mediator Pattern](#mediator-pattern)
+  * [Prototype Pattern](#prototype-pattern)
+  * [Command Pattern](#command-pattern)
+  * [Facade Pattern](#facade-pattern)
+  * [Factory Pattern](#factory-pattern)
+  * [Mixin Pattern](#mixin-pattern)
+  * [Decorator Pattern](#decorator-pattern)
+  * [Flyweight Pattern](#flyweight-pattern)
+2. [JavaScript MV* Patterns](#javascript-mv*-patterns)
+  * [MVC Pattern](#mvc-pattern)
+  * [MVP Pattern](#mvp-pattern)
+  * [MVVM Pattern](#mvvm-pattern)
+3. [Modern Modular JavaScript Design Patterns](#modern-modular-javascript-design-patterns)
+  * [AMD](#amd)
+  * [CommonJS](#commonjs)
+  * [ES Harmony](#es-harmony)
+4. [Design Patterns In jQuery](#design-patterns-in-jquery)
+  * [Composite Pattern](#composite-pattern)
+  * [Adapter Pattern](#adapter-pattern)
+  * [Facade Pattern](#facade-pattern)
+  * [Observer Pattern](#observer-pattern)
+  * [Iterator Pattern](#iterator-pattern)
+  * [Lazy Initialization Pattern](#lazy-initialization-pattern)
+  * [Proxy Pattern](#proxy-pattern)
+  * [Builder Pattern](#builder-pattern)
 
 
 
-## Constructor Pattern
+### Constructor Pattern
 
-## Module Pattern
+### Module Pattern
 
-## Revealing Module
+### Revealing Module
 
-## Singleton Pattern
+### Singleton Pattern
 
-## Observer Pattern
+### Observer Pattern
 
-## Mediator Pattern
+### Mediator Pattern
 
-## Prototype Pattern
+### Prototype Pattern
 
-## Command Pattern
+### Command Pattern
 
-## Facade Pattern
+### Facade Pattern
 
-## Factory Pattern
+### Factory Pattern
 
-## Mixin Pattern
+### Mixin Pattern
 
-## Decorator Pattern
+### Decorator Pattern
 
-## Flyweight Pattern
+### Flyweight Pattern

@@ -6,46 +6,46 @@ This repository is created to give a quick overview for anyone who is interested
 
 ## Table of Contents
 
-  1. [Variables and Parameters](#variables-and-parameters)  
-    * [*let* keyword](#let-keyword)  
-    * [*const* keyword](#const-keyword)  
-    * [Destructuring assignment](#destructuring-assignment)  
-    * [Default Parameters](#default-parameters)  
-    * [Rest parameters](#rest-parameters)  
-    * [Spread Operator](#spread-operator)  
-    * [Template Literals](#template-lterals)  
-  1. [Classes](#classes)  
-    * [*class* keyword](#class-keyword)  
-    * [constructor](#constructor)  
-    * [*get* and *set* keywords](#get-and-set-keywords)  
-    * [*extends* keyword](#extends-keyword)  
-    * [*super* keyword](#super-keyword)  
-    * [overrides](#overrides)  
-  1. [Functional JavaScript](#functional-javascript)  
-    * [Arrow functions](#arrow-functions)  
-    * [Arrow functions and `this` binding](#arrow-functions-and-this-binding)  
-    * [Iterables and Iterators](#iterables-and-iterators)  
-    * [*for of* loop](#for-of-loop)  
-    * [Generators](#generators)  
-    * [Comprehension syntax](#comprehension-syntax)  
-  1. [Built-in Objects](#built-in-objects)  
-    * [Numbers](#numbers)  
-    * [Math](#math)  
-    * [Arrays](#arrays)  
-    * [Sets](#sets)  
-    * [Maps](#maps)  
-    * [WeakMap & WeakSet](#weakmap--weakset)  
-  1. [Asynchronous JavaScript](#asynchronous-javascript)  
-    * [Promises](#promises)  
-    * [Chaining Promises](#chaining-promises)  
-    * [Asyncronious generators](#asyncronious-generators)  
-  1. [ES6 Objects](#es6-objects)  
-    * [Object.is() & Object.assign()](#objectis--objectassign)  
-    * [Object shorthand and computed properties](#object-shorthand-and-computed-properties)  
-    * [Proxies](#proxies)  
-  1. [Modules](#modules)  
-    * [*import* & *export* keywords](#import--export-keywords)  
-    * [*default* keyword](#default-keyword)  
+1. [Variables and Parameters](#variables-and-parameters)
+  * [*let* keyword](#let-keyword)
+  * [*const* keyword](#const-keyword)
+  * [Destructuring assignment](#destructuring-assignment)
+  * [Default Parameters](#default-parameters)
+  * [Rest parameters](#rest-parameters)
+  * [Spread Operator](#spread-operator)
+  * [Template Literals](#template-lterals)
+2. [Classes](#classes)
+  * [*class* keyword](#class-keyword)
+  * [constructor](#constructor)
+  * [*get* and *set* keywords](#get-and-set-keywords)
+  * [*extends* keyword](#extends-keyword)
+  * [*super* keyword](#super-keyword)
+  * [overrides](#overrides)
+3. [Functional JavaScript](#functional-javascript)
+  * [Arrow functions](#arrow-functions)
+  * [Arrow functions and `this` binding](#arrow-functions-and-this-binding)
+  * [Iterables and Iterators](#iterables-and-iterators)
+  * [*for of* loop](#for-of-loop)
+  * [Generators](#generators)
+  * [Comprehension syntax](#comprehension-syntax)
+3. [Built-in Objects](#built-in-objects)
+  * [Numbers](#numbers)
+  * [Math](#math)
+  * [Arrays](#arrays)
+  * [Sets](#sets)
+  * [Maps](#maps)
+  * [WeakMap & WeakSet](#weakmap--weakset)
+4. [Asynchronous JavaScript](#asynchronous-javascript)
+  * [Promises](#promises)
+  * [Chaining Promises](#chaining-promises)
+  * [Asyncronious generators](#asyncronious-generators)
+5. [ES6 Objects](#es6-objects)
+  * [Object.is() & Object.assign()](#objectis--objectassign)
+  * [Object shorthand and computed properties](#object-shorthand-and-computed-properties)
+  * [Proxies](#proxies)
+6. [Modules](#modules)
+  * [*import* & *export* keywords](#import--export-keywords)
+  * [*default* keyword](#default-keyword)
 
 ## Variables and Parameters
 
@@ -99,7 +99,7 @@ function doWork () {
 }
 
 let {
-    firstName: first, 
+    firstName: first,
     lastName,
     misc: { facebook: fb }
 } = doWork(); // first = 'test', lastName = 'testing', fb = 'testFB'
@@ -479,7 +479,7 @@ foo.next(5); // { value: 8, done: false }
 
 ```javascript
 let foo = [1, 2, 3];
-let bar = [for (n of foo) if (n > 1) n * n]; 
+let bar = [for (n of foo) if (n > 1) n * n];
 bar; // [4, 9]
 ```
 
@@ -487,7 +487,7 @@ bar; // [4, 9]
 
 ```javascript
 let foo = [1, 2, 3];
-let bar = (for (n of foo) if (n > 1) n * n); 
+let bar = (for (n of foo) if (n > 1) n * n);
 Array.from(bar); // [4, 9]
 ```
 
