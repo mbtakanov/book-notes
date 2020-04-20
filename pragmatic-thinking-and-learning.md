@@ -1,10 +1,16 @@
+# Chapter 1 - Introduction
 
+# Chapter 2 - Journey from Novice to Expert
 
-# Chapter 5
+# Chapter 3 - This Is Your Brain
+
+# Chapter 4  - Get in Your Right Mind
+
+# Chapter 5 - Debug Your Mind
 
 - Trust intuition, but verify. - if you have intuition for something, prove it.
 - If you think you've defined something, try to also define its opposite.
-- It's all a trade-off. There is always a flip side, and looking closely at the trade-offs—in detail, both positive and negative—helps make sure you're evaluating the situation more fully.
+- It's all a trade-off. There is always a flip side, and looking closely at the trade-offs — in detail, both positive and negative — helps make sure you're evaluating the situation more fully.
 
 # Chapter 6 - Learn Deliberately
 
@@ -95,6 +101,53 @@
 - Ruby programmers might work in something like C++ for a while. C++ makes a very effective mental equivalent to heavy ankle weights; after working in C++, more dynamic languages then feel a whole lot easier by comparison. :-)
 
 
+# Chapter 8 - Manage Focus
 
+- Increasing focus and attention
+    - "... a navy pilot can land a 40,000 lb aircraft at 140mph on a pitching carrier deck at night more safely than the average teenager can cut a bagel.". The teenager's mind is easily distracted, and that doesn't seem to be one of those things that gets any better as you age.
+- Managing your knowledge
+- Optimizing your current context
+- Learn to pay attention.
+    - "...  training in meditation could improve a subject's ability to pay attention throughout the day"
+- How to meditate
+    - Find a quiet spot, free from distraction or interruption. This might be the hardest part.
+    - Sit in a comfortable, alert posture, with a straight back. Let your body hang off your spine like a rag doll. Take a moment
+    to become aware of any tension that you might be holding in
+    your body and let it go.
+    - Close your eyes, and focus your awareness on your breath — that small point where the air enters your body and where it exits.
+    - Be aware of the rhythm of your breath, the length and qualities of the inhale, the brief pause at the top of the cycle, the qualities of the exhale, and the brief pause at the bottom.
+    Don't try to change it; just be aware of it.
+    - Keep your mind focused on the breath. Do not use words. Do not verbalize the breath or any thoughts you have. Do not begin a conversation with yourself. This is the other hard part.
+    - You may find yourself thinking about some topic or carrying on a conversation with yourself. Whenever your attention wanders off, just let those thoughts go and gently bring your focus back to the breath.
+    - Even if your mind is wandering often, the exercise of noticing that you have wandered and bringing yourself back each time is helpful.
+- The benefits of meditation have been widely studied. Recently, researchers showed that even children—middle-school students — could benefit. Students who participated in a one-year study were found to have an increased state of restful alertness; improvement in skills indicative of emotional intelligence (self-control, selfreflection/awareness, and flexibility in emotional response); and improvement in academic performance.
+- Defocus to Focus
+    - In fact, the situation is quite the opposite: you need to let go of the problem with your conscious mind and let the problem sit in the marinade of thought for a while.
+- Procrastination vs. Marinating
+- Rule of Three: if you can't think of three ways a plan can go wrong or think of three different solutions to a problem, then you haven't thought it through enough. (sidenotes: omne trium perfectum, three is the smallest number of elements you need to create a pattern or break a pattern)
+- Make thinking time.
+- Just as you want to go from R-mode to L-mode to productize learning, you want to work with knowledge in a more deliberate way.
+- Albert Einstein was once asked how many feet there were in a mile and replied that he wouldn't fill his brain with things that could easily be looked up. That's what reference books are for; that's an efficient use of resources.
+- Use a wiki as a text-based mind map. Use a wiki to manage information and knowledge. (sidenote: Notion app)
+- Context Switching: our brains just aren't wired to support context switching very well.
+- Multitasking takes a heavy toll on productivity. One study found that in general, multitasking can cost you 20 to 40 percent of your productivity.
+- It takes twenty minutes to reload context. Unlike computers, our brains don't have a "save stack" or "reload stack" operation. Instead, you have to drag all the bits of memory back in, sort of one-by-one. That means that if you are deep into a task (such as debugging) and then get interrupted, it can take you an average of twenty minutes to get back into it. Twenty minutes. Consider how many interruptions you may get in a given day; if each interruption requires twenty minutes for you to recover, a good portion of your day is just plain wasted. This could explain why programmers in general hate to be interrupted—especially by nonprogrammers. (todo: sent to wife)
+- Scientists agree that trying to focus on several things at once means you'll do poorly at each of them.
+- If you constantly interrupt your task to check email or respond to an IM text message, your effective IQ drops ten points. By comparison, smoking a marijuana joint drops your IQ a mere four points. Whatever you do, please don't do both.
+ - Avoiding Distractions: spartan user interface.
+ - Organize and Process Tasks Efficiently
+ - Manage Interruptions Deliberately
+    - Establish rules of engagement to manage interruptions. I've heard from teams who have created email-free afternoons or entire days: no email, no phone calls, no interruptions. The developers involved said these were the most productive, happiest times of the week.
+    - Don't answer if you're busy. Call them back when you are ready so you don't lose all the context you've laboriously assembled.
+- Do you know what Alt-Tab (or Command-Tab on Mac) is called? It's a context switch. And as we've seen, context switching kills productivity.
+- Use multiple monitors to avoid context switching.
+- So, what does it take to stay sharp? The biggest thing is selfawareness—remembering that you need to deliberately work at staying sharp. Left to our own devices, our default settings aren't ideal for programming and knowledge work.
+- If nothing else, remember to do these three things:
+    - Learn to quiet your chattering L-mode.
+    - Deliberately work with and add to thoughts in progress, even if they aren't "done" yet.
+    - Be aware of just how expensive context switching can be, and avoid it in all its myriad forms.
 
-217
+# Chapter 9 - Beyond Expertise
+- In the beginner's mind there are many possibilities, but in the expert's there are few. Always keep a "beginner's" mind. Ask "what if?" You want to emulate a child's insatiable curiosity, full of wonder and amazement. Maybe this new language is really cool. Or maybe this other, newer language is. Maybe I can learn something from this cool object-oriented operating system, even if I never intend to use it.
+-  Self-awareness is key to becoming an expert—and beyond—but it falls prey to the "old-habit-neuralhighway" problem.
+- Grab the wheel. You can't steer on autopilot
