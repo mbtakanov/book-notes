@@ -11,6 +11,8 @@ Completed notes from books that I've finished reading.
 
 Incomplete notes from books that I haven't yet finished reading.
 
+
+* [Agile Web Development with Rails 6](agile-web-development-with-rails-6.md) by Dave Thomas, David B. Copeland, and Sam Ruby
 * [Pragmatic Thinking and Learning: Refactor Your Wetware](pragmatic-thinking-and-learning.md) by Andy Hunt
 * [Learning JavaScript Design Patterns](design-patterns.md) by Addy Osmani
 * [You Don't Know JavaScript: Up & Going](you-dont-know-javascript-up-and-going.md) by [Kyle Simpson](https://github.com/getify)
@@ -27,4 +29,5 @@ Notes from things that I've read or watched on the web:
 * [ES6 features](es6-features.md)
 * [JavaScript WTFs](javascript-wtfs.md)
 * [Ruby notes](ruby-notes.md)
+* [RailsCasts](railscasts.md)
 
